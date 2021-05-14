@@ -5,9 +5,10 @@ const data = {
             name: 'Nike Slim Shirt',
             category: 'Shirts',
             image: '/images/p1.jpg',
-            price: 120,
+            price: 125,
+            countInStock: 10,
             brand: 'Nike',
-            rating: 4.8,
+            rating: 2.05,
             numReviews: 10,
             description: 'High quality product'
         },
@@ -17,17 +18,19 @@ const data = {
             category: 'Shirts',
             image: '/images/p2.jpg',
             price: 100,
-            brand: 'NiAdidaske',
+            countInStock: 10,
+            brand: 'Adidas',
             rating: 1.7,
             numReviews: 17,
             description: 'High quality product'
-        },        
+        },
         {
             _id: '3',
             name: 'Lacoste Free Shirt',
             category: 'Shirts',
             image: '/images/p3.jpg',
             price: 220,
+            countInStock: 0,
             brand: 'Lacoste',
             rating: 2.7,
             numReviews: 17,
@@ -39,6 +42,7 @@ const data = {
             category: 'Pants',
             image: '/images/p4.jpg',
             price: 78,
+            countInStock: 15,
             brand: 'Nike',
             rating: 4.6,
             numReviews: 14,
@@ -50,6 +54,7 @@ const data = {
             category: 'Pants',
             image: '/images/p5.jpg',
             price: 65,
+            countInStock: 5,
             brand: 'Puma',
             rating: 4.5,
             numReviews: 10,
@@ -61,11 +66,12 @@ const data = {
             category: 'Pants',
             image: '/images/p6.jpg',
             price: 139,
+            countInStock: 12,
             brand: 'Adidas',
             rating: 2.3,
             numReviews: 15,
             description: 'High quality product'
-        }     
+        }
     ]
 }
 
