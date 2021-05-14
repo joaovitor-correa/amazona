@@ -7,7 +7,7 @@ const data = {
             image: '/images/p1.jpg',
             price: 120,
             brand: 'Nike',
-            rating: 4.5,
+            rating: 4.8,
             numReviews: 10,
             description: 'High quality product'
         },
@@ -18,7 +18,7 @@ const data = {
             image: '/images/p2.jpg',
             price: 100,
             brand: 'NiAdidaske',
-            rating: 4.0,
+            rating: 1.7,
             numReviews: 17,
             description: 'High quality product'
         },        
@@ -29,7 +29,7 @@ const data = {
             image: '/images/p3.jpg',
             price: 220,
             brand: 'Lacoste',
-            rating: 4.8,
+            rating: 2.7,
             numReviews: 17,
             description: 'High quality product'
         },
@@ -40,7 +40,7 @@ const data = {
             image: '/images/p4.jpg',
             price: 78,
             brand: 'Nike',
-            rating: 4.5,
+            rating: 4.6,
             numReviews: 14,
             description: 'High quality product'
         },
@@ -62,7 +62,7 @@ const data = {
             image: '/images/p6.jpg',
             price: 139,
             brand: 'Adidas',
-            rating: 4.5,
+            rating: 2.3,
             numReviews: 15,
             description: 'High quality product'
         }     
